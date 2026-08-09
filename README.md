@@ -214,7 +214,7 @@ The full **Executive Data Analysis Report** documents the research findings and 
 - Final recommendation
 - Recommended next steps
 
-📄[View the Full Executive Data Analysis Report](https://github.com/user-attachments/files/30866600/Beats_by_Dre_Executive_Data_Analysis_Report_Dashboard.pdf)
+📄[View the Full Executive Data Analysis Report](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research/blob/main/Beats_by_Dre_Executive_Data_Analysis_Report%20(1).pdf)
 
 
 
