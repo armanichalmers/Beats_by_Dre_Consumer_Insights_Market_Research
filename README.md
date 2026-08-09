@@ -196,7 +196,7 @@ The research findings were transformed into an interactive market intelligence d
 
 ### 🔗 Explore the Interactive Dashboard
 
-[View the Full Interactive Dashboard](https://beatswirelessspeakers.netlify.app/)
+📊[View the Full Interactive Dashboard](https://beatswirelessspeakers.netlify.app/)
 
 
 ## 📄 Executive Data Analysis Report
