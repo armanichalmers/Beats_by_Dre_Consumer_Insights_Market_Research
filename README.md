@@ -255,6 +255,7 @@ The final presentation brings together the consumer research, market analysis, k
 
 - Consumer Insights
 - Market Research
+- Market Analysis
 - Quantitative Research
 - Qualitative Research
 - Survey Analysis
