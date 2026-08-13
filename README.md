@@ -1,4 +1,4 @@
-# 🎧 Beats by Dre Consumer Insights & Market Research
+# 🎧 Beats by Dre Consumer Behavior & Market Analysis
 
 ## Project Overview
 
